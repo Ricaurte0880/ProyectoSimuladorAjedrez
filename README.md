@@ -1,6 +1,5 @@
 ### Simulador de Ajedrez en C++
-
-**IMPORTANTE** para compilar el codigo que esta en el documento ajedrez de este repositorio, se DEBE utilizar un compilador interactivo como este: https://www.onlinegdb.com/online_c++_compiler#
+****IMPORTANTE para compilar el codigo que esta en el documento ajedrez de este repositorio, se DEBE utilizar un compilador interactivo como este: https://www.onlinegdb.com/online_c++_compiler#****
 
 Este simulador de ajedrez en C++ permite a dos jugadores mover piezas en un tablero de 8x8 siguiendo las reglas del ajedrez. A continuación se detallan las instrucciones para empezar a jugar, cómo controlar las piezas, sus movimientos y cómo ganar.
 

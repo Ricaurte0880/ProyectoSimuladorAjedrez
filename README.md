@@ -65,4 +65,4 @@ Consejos para Controlar el Juego
 • Puedes visualizar el historial de movimientos en consola para revisar jugadas previas.
 
 <h3>Video en Youtube Presentación</h3>
-****<h4>Aquí dejamos el link al video de youtube, donde se explica el programa (https://youtu.be/wB9Ht63WSdk?feature=shared)<h4>****
+<h4>Aquí dejamos el link al video de youtube, donde se explica el programa (https://youtu.be/wB9Ht63WSdk?feature=shared)<h4>
